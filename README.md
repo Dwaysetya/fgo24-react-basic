@@ -6,7 +6,7 @@ This repository contains projects on how to create a basic react project with bu
 
 ## Result
 
-![Result](./src/images/Screenshot%202025-05-08%20at%2013.31.03.png)
+![Result](./src/assets/images/Screenshot%202025-05-15%20at%2010.48.50.png)
 
 ## How to Run this project
 
