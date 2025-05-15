@@ -21,26 +21,30 @@ git clone    https://github.com/Dwaysetya/fgo24-react-basic
 ```
 cd directory-name
 ```
-
 3. Install the Depedencies
+
+```
+ npm create vite@latest react-demo -- --template react 
+```
+4. Install the Depedencies
 
 ```
 npm install
 ```
 
-4. run the project
+5. run the project
 
 ```
 npm run dev
 ```
 
-5. Project will running on (http://localhost:5173/)
+6. Project will running on (http://localhost:5173/)
 
 ## Depedencies
 
 This project requires Node.js to run, so make sure Node.js is installed on your device.
 
-- live-server: used to document an HTTP server locally, easing the development and testing process.
+- vite: used to document an HTTP server locally, easing the development and testing process.
 
 ## Basic Information
 
